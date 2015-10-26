@@ -1,0 +1,12 @@
+﻿ Program Hello; // ubah menjadi Program APCI-NIM
+            Uses Crt;
+            Begin
+                ClrScr;
+                Writeln(‘Hello’);//untuk mengeluarkan string ‘Hello’ di layar
+                Writeln(‘1301154271’); //Ubah untuk menampilkan NIM Anda
+                Writeln(‘L.M.Agung’); //Ubah untuk menampilkan Nama Anda
+                Writeln(‘IF 39-05’); //Ubah untuk menampilkan Kelas Anda
+                Writeln(‘Almira’); //Ubah untuk menampilkan Nama Asprak Anda
+                Writeln(‘NIM Teman’); //Ubah untuk menampilkan NIM teman anda
+                Writeln(‘Modul 6’); //Ubah untuk menampilkan string ‘Modul 6
+            End.
